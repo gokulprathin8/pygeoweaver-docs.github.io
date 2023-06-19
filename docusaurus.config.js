@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/geoweaver-icon.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://geobrain.csiss.gmu.edu',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'George Mason University', // Usually your GitHub org/user name.
+  organizationName: 'George Mason University', // Usually your GitHub org/username.
   projectName: 'pygeoweaver-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -84,7 +84,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'documentationSidebar'
           },
-          {to: '/release-log', label: 'Release Log', position: 'left'},
+          {
+            to: '/release-log',
+            label: 'Release Log',
+            position: 'left'
+          },
           {
             href: 'https://github.com/ESIPFed/pygeoweaver',
             label: 'GitHub',
