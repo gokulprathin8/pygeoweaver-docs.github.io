@@ -70,13 +70,13 @@ const config = {
           src: 'img/geoweaver-icon.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-            to: '/tutorial'
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          //   to: '/tutorial'
+          // },
           {
             to: '/docs',
             label: 'Docs',
