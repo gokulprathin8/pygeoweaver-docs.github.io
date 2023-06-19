@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpygeoweaver=self.webpackChunkpygeoweaver||[]).push([[3724],{1657:e=>{e.exports=JSON.parse('{"permalink":"/pygeoweaver-docs.github.io/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
