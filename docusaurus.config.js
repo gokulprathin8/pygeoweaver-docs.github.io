@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'George Mason University', // Usually your GitHub org/username.
+  organizationName: 'ESIP | George Mason University', // Usually your GitHub org/username.
   projectName: 'pygeoweaver-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -78,17 +78,17 @@ const config = {
           //   to: '/tutorial'
           // },
           {
-            to: '/docs',
+            to: '/docs/getting-started',
             label: 'Docs',
             position: 'left',
             type: 'docSidebar',
             sidebarId: 'documentationSidebar'
           },
-          {
-            to: '/release-log',
-            label: 'Release Log',
-            position: 'left'
-          },
+          // {
+          //   to: '/release-log',
+          //   label: 'Release Log',
+          //   position: 'left'
+          // },
           {
             href: 'https://github.com/ESIPFed/pygeoweaver',
             label: 'GitHub',
@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs',
+                to: '/docs/getting-started',
               },
             ],
           },
@@ -120,10 +120,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Release Log',
-                to: '/release-log',
-              },
+              // {
+              //   label: 'Release Log',
+              //   to: '/release-log',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/ESIPFed/pygeoweaver',

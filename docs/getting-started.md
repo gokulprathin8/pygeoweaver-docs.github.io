@@ -41,7 +41,7 @@ process = pygeoweaver.create_process(
 )
 ```
 
-3. Explore the functionalities and methods provided by Pygeoweaver to work with processes, workflows, and other geoweaver-related tasks. Refer to the [API Reference](api-reference.md) for detailed information on available classes and methods.
+3. Explore the functionalities and methods provided by Pygeoweaver to work with processes, workflows, and other geoweaver-related tasks. Refer to the [API Reference](/docs/getting-started.md) for detailed information on available classes and methods.
 
 ## Using Pygeoweaver
 
@@ -53,7 +53,7 @@ Pygeoweaver offers a comprehensive set of features for managing geoweaver proces
 
 - **Interacting with Geoweaver**: Pygeoweaver provides functions and methods to interact with a Geoweaver instance, enabling you to add processes, workflows, and perform other geoweaver-related tasks.
 
-- **Customization and Configuration**: Pygeoweaver offers various configuration options to customize the behavior and settings according to your requirements. You can refer to the [Configuration Guide](configuration.md) for detailed instructions.
+- **Customization and Configuration**: Pygeoweaver offers various configuration options to customize the behavior and settings according to your requirements. You can refer to the [Configuration Guide](/docs/getting-started.md) for detailed instructions.
 
 ## Additional Resources
 
