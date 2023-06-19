@@ -21,7 +21,7 @@ const config = {
   organizationName: 'gokulprathin8', // Usually your GitHub org/username.
   projectName: 'pygeoweaver-docs.github.io', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: 'main',
+  deploymentBranch: 'deployment',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
