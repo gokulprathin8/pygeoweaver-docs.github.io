@@ -1,4 +1,6 @@
-## Creating Processes and Workflows
+---
+title: Creating Processes and Workflows
+---
 
 The Pygeoweaver library provides functionalities to create processes and workflows for geospatial data processing and analysis. This section explains how to use the `create_process`, `create_process_from_file`, and `create_workflow` functions to create processes and workflows in Pygeoweaver.
 
