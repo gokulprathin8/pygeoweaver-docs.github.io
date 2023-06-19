@@ -18,8 +18,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ESIP | George Mason University', // Usually your GitHub org/username.
-  projectName: 'pygeoweaver-docs', // Usually your repo name.
+  organizationName: 'pygeoweaver-docs', // Usually your GitHub org/username.
+  projectName: 'pygeoweaver-docs.github.io', // Usually your repo name.
+  trailingSlash: false,
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
