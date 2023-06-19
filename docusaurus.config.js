@@ -75,9 +75,14 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
+            to: '/tutorial'
           },
           {
-            to: '/docs', label: 'Docs', position: 'left', type: 'docSidebar'
+            to: '/docs',
+            label: 'Docs',
+            position: 'left',
+            type: 'docSidebar',
+            sidebarId: 'documentationSidebar'
           },
           {to: '/release-log', label: 'Release Log', position: 'left'},
           {
@@ -103,17 +108,9 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                label: 'ESIP',
+                href: 'https://www.esipfed.org/',
+              }
             ],
           },
           {
