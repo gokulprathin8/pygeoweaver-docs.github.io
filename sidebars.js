@@ -27,10 +27,14 @@ const sidebars = {
       type: 'category',
       label: 'User Guide',
       items: [
-          'user-guide/intro',
-          'user-guide/create',
-          'user-guide/edit',
-          'user-guide/sync'
+        'user-guide/process-workflow',
+        'user-guide/detailed-info',
+        'user-guide/export-workflow',
+        'user-guide/process-info',
+        'user-guide/getting-help',
+        'user-guide/history',
+        'user-guide/import-workflow',
+        'user-guide/list',
       ]
     }
   ]
