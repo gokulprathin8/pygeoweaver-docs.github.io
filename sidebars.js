@@ -27,6 +27,7 @@ const sidebars = {
       type: 'category',
       label: 'User Guide',
       items: [
+        'user-guide/password-reset',
         'user-guide/process-workflow',
         'user-guide/detailed-info',
         'user-guide/export-workflow',
@@ -35,6 +36,8 @@ const sidebars = {
         'user-guide/history',
         'user-guide/import-workflow',
         'user-guide/list',
+        'user-guide/run-process-workflows',
+        'user-guide/sync-process-workflow',
       ]
     }
   ]
