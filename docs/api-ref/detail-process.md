@@ -1,5 +1,5 @@
 ---
-title: gw.detail_process
+title: detail_process
 ---
 
 #### `detail_process(process_id)`

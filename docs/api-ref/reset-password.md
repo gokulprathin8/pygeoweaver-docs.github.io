@@ -1,5 +1,5 @@
 ---
-title: gw.reset_password
+title: reset_password
 ---
 #### `reset_password()`
 

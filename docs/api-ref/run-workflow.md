@@ -1,5 +1,5 @@
 ---
-title: gw.run_workflow
+title: run_workflow
 ---
 
 #### `run_workflow(*, workflow_id: str, workflow_folder_path: str = None, workflow_zip_file_path: str = None, environment_list: str = None, host_list: str = None, password_list: str = None, sync_path: PathLike = None)`

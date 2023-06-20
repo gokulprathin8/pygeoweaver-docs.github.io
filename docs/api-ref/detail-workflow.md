@@ -1,5 +1,5 @@
 ---
-title: gw.detail_workflow
+title: detail_workflow
 ---
 
 #### `detail_workflow(workflow_id)`

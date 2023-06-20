@@ -1,5 +1,5 @@
 ---
-title: gw.run_process
+title: run_process
 ---
 #### `run_process(*, process_id: str, host_id: str, password: str = None, environment: str = None, sync_path: PathLike = None)`
 

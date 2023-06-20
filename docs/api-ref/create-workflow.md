@@ -1,5 +1,5 @@
 ---
-title: gw.create_workflow
+title: create_workflow
 ---
 
 #### `create_workflow(description, edges, name, nodes, owner="111111", confidential=False)`

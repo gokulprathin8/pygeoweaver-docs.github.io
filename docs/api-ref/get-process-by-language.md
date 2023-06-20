@@ -1,5 +1,5 @@
 ---
-title: gw.get_process_by_language
+title: get_process_by_language
 ---
 
 #### `get_process_by_language(language)`

@@ -1,5 +1,5 @@
 ---
-title: gw.list_hosts
+title: list_hosts
 ---
 
 #### `list_hosts()`

@@ -1,5 +1,5 @@
 ---
-title: gw.get_workflow_history
+title: get_workflow_history
 ---
 
 #### `get_workflow_history(workflow_id)`

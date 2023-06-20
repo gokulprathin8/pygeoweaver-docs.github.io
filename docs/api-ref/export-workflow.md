@@ -1,5 +1,5 @@
 ---
-title: gw.export_workflow
+title: export_workflow
 ---
 
 #### `export_workflow(workflow_id, mode=4, target_file_path=None, unzip=False, unzip_directory_name=None)`

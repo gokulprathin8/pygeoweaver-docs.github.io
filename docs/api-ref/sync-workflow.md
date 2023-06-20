@@ -1,5 +1,5 @@
 ---
-title: gw.sync_workflow
+title: sync_workflow
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: gw.helpwith
+title: helpwith
 ---
 
 #### `helpwith(command_list: list = [])`

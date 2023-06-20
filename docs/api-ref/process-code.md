@@ -1,5 +1,5 @@
 ---
-title: gw.get_process_code
+title: get_process_code
 ---
 
 #### `get_process_code(process_id)`

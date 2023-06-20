@@ -1,5 +1,5 @@
 ---
-title: gw.sync
+title: sync
 ---
 
 #### `sync(process_id: str, local_path: Union[str, PathLike], direction: str)`

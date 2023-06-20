@@ -1,5 +1,5 @@
 ---
-title: gw.list_processes_in_workflow
+title: list_processes_in_workflow
 ---
 #### `list_processes_in_workflow(workflow_id)`
 

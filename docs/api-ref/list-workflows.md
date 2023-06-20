@@ -1,5 +1,5 @@
 ---
-title: gw.list_workflows
+title: list_workflows
 ---
 #### `list_workflows()`
 

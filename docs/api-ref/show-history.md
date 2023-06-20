@@ -1,5 +1,5 @@
 ---
-title: gw.show_history
+title: show_history
 ---
 
 #### `show_history(history_id)`

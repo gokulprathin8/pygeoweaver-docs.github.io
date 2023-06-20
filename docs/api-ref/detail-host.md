@@ -1,5 +1,5 @@
 ---
-title: gw.detail_host
+title: detail_host
 ---
 
 #### `detail_host(host_id)`

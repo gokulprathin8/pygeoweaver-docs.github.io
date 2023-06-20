@@ -1,5 +1,5 @@
 ---
-title: gw.import_workflow
+title: import_workflow
 ---
 
 #### `import_workflow(workflow_zip_file_path)`

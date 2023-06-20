@@ -1,5 +1,5 @@
 ---
-title: gw.create_process
+title: create_process
 ---
 
 #### `create_process(lang, description, name, code, owner="111111", confidential=False)`

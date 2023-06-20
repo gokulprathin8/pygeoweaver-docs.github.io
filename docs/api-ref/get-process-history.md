@@ -1,5 +1,5 @@
 ---
-title: gw.get_process_history
+title: get_process_history
 ---
 
 #### `get_process_history(process_id)`

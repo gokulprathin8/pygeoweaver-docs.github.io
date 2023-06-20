@@ -1,5 +1,5 @@
 ---
-title: gw.list_processes
+title: list_processes
 ---
 
 #### `list_processes()`
