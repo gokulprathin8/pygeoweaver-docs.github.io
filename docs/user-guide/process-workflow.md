@@ -15,7 +15,7 @@ def create_process(lang, description, name, code, owner="111111", confidential=F
 
 #### Parameters
 
-- `lang` (str): The programming language of the process.
+- `lang` (str): The programming language of the process. Currently, *python* & *shell* are supported.
 - `description` (str): The description of the process.
 - `name` (str): The name of the process.
 - `code` (str): The code of the process.

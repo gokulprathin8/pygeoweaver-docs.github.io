@@ -14,12 +14,14 @@ const config = {
   url: 'https://pygeoweaver-docs.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/pygeoweaver-docs.github.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ESIP | George Mason University', // Usually your GitHub org/username.
-  projectName: 'pygeoweaver-docs', // Usually your repo name.
+  organizationName: 'gokulprathin8', // Usually your GitHub org/username.
+  projectName: 'pygeoweaver-docs.github.io', // Usually your repo name.
+  trailingSlash: false,
+  deploymentBranch: 'deployment',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
