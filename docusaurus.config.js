@@ -65,6 +65,7 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      includeCurrentVersion: false,
       navbar: {
         title: 'Pygeoweaver',
         logo: {
@@ -72,6 +73,11 @@ const config = {
           src: 'img/geoweaver-icon.png',
         },
         items: [
+          {
+            type: 'docsVersionDropdown',
+            position: 'right',
+            dropdownActiveClassDisabled: true,
+          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'tutorialSidebar',
