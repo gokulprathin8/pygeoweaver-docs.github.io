@@ -78,13 +78,6 @@ const config = {
             position: 'right',
             dropdownActiveClassDisabled: true,
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          //   to: '/tutorial'
-          // },
           {
             to: '/docs/getting-started',
             label: 'Docs',
@@ -92,11 +85,6 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'documentationSidebar'
           },
-          // {
-          //   to: '/release-log',
-          //   label: 'Release Log',
-          //   position: 'left'
-          // },
           {
             href: 'https://github.com/ESIPFed/pygeoweaver',
             label: 'GitHub',
